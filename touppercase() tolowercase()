@@ -1,0 +1,7 @@
+public class main {
+public static void main (string [] args){
+string s1 = "tHIsIsAnAMAzingTExtwriTtIngcasEtuSHarBhATt";
+system.out.println(s.Toupper case());
+system.out.println(s.Tolower case());
+}
+}
